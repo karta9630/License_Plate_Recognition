@@ -1,0 +1,10 @@
+
+train: datasets/cars_license_plate_new/train/images
+val: datasets/cars_license_plate_new/val/images
+test: datasets/cars_license_plate_new/test/images
+
+# number of classes
+nc: 1
+
+# class names
+names: ['license_plate']
